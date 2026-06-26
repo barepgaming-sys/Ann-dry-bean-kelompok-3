@@ -14,7 +14,7 @@ Akurasi terbaik: 91.81% Multiclass
 **Requirements:**
 ```bash
 pip install numpy pandas scikit-learn tensorflow matplotlib openpyxl
-
+```
 ## 3. Pembagian Tugas Anggota Kelompok 3
 | Nama | NIM | Tugas |
 | --- | --- | --- |
