@@ -11,6 +11,7 @@ Dibuat 2 versi sesuai tugas:
 File:`src/ann_scratch_Barep.py`
 1.install:`pip install numpy pandas scikit-learn`
 2.Run:`python src/ann_scratch_Barep.py`
+
 ## 2.Cara menjalankan ANN Keras
 File:`/ann_keras_nabila.py`
 1.Install: ` pip install tensorflow pandas scikit-learn `
