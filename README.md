@@ -2,8 +2,8 @@
 
 Implementasi ANN untuk klasifikasi Dry Bean Dataset 
 
-. Deskripsi Singkat
-Repo ini berisi implementasi ANN untuk klasifikasi Dry Bean Dataset 7 kelas.
+Deskripsi Singkat
+Repo ini berisi implementasi & evaluasi ANN Numpy ,Keras untuk klasifikasi 7 jenis kacang Dry Bean
 Dibuat 2 versi sesuai tugas:
 - `src/ANN_From_Scratch.ipynb`: ANN dibuat manual pake NumPy doang - bagian Barep
 - `src/ANN_Keras.ipynb`: ANN pake library Keras/TensorFlow - bagian Nabila
