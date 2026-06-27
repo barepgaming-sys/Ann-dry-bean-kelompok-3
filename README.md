@@ -13,7 +13,7 @@ File:`src/ann_scratch_Barep.py`
 2.Run:`python src/ann_scratch_Barep.py`
 
 ## 2.Cara menjalankan ANN Keras
-File:`/ann_keras_nabila.py`
+File:`src/ann_keras_nabila.py`
 1.Install: ` pip install tensorflow pandas scikit-learn `
 2.Run: ` python src/ann_keras_nabila.py `
 
