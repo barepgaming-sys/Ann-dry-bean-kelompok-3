@@ -8,7 +8,6 @@ Dibuat 2 versi sesuai tugas:
 - `src/ANN_From_Scratch.ipynb`: ANN dibuat manual pake NumPy doang - bagian Barep
 - `src/ANN_Keras.ipynb`: ANN pake library Keras/TensorFlow - bagian Nabila
 
-Akurasi terbaik: 91.81% Multiclass
 
 ## 2. Cara Setup & Run Program
 **Requirements:**
