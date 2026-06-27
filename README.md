@@ -1,4 +1,4 @@
-# Ann-dry-bean-kelompok-3
+# TUGAS-BESAR-ARTIFICIAL-INTELLIGENT-IMPLEMENTASI-ANN
 
 Implementasi ANN untuk klasifikasi Dry Bean Dataset 
 
