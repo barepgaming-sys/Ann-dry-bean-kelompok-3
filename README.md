@@ -18,5 +18,5 @@ pip install numpy pandas scikit-learn tensorflow matplotlib openpyxl
 ## 3. Pembagian Tugas Anggota Kelompok 3
 | Nama | NIM | Tugas |
 | --- | --- | --- |
-| Barep Purwo Agusto | [2303030003] | Anggota 1: Dataset & ANN From Scratch - Mencari & memahami Dry Bean Dataset - Preprocessing data normalisasi, encoding, train-test split - Membuat arsitektur ANN dari scratch pake NumPy - Implementasi inisialisasi bobot, fungsi aktivasi sigmoid, forward propagation |
+| Barep Purwo Agusto | [2303030003] | Anggota 1: Dataset & ANN From Scratch - Mencari & memahami Dry Bean Dataset - Preprocessing data normalisasi, encoding, train-test split - Membuat arsitektur ANN dari scratch pake NumPy|
 | [Nabila rahayu] | [2303030015] | Anggota 2: ANN Keras + Evaluasi |
