@@ -5,8 +5,8 @@ Klasifikasi 7 jenis biji kacang Dry Bean Dataset menggunakan Artificial Neural N
 ## 1. Deskripsi Singkat
 Repo ini berisi implementasi ANN untuk klasifikasi Dry Bean Dataset 7 kelas.
 Dibuat 2 versi sesuai tugas:
-- `src/ANN_From_Scratch.ipynb`: ANN dibuat manual pake NumPy doang - bagian Anggota 1
-- `src/ANN_Keras.ipynb`: ANN pake library Keras/TensorFlow - bagian Anggota lain
+- `src/ANN_From_Scratch.ipynb`: ANN dibuat manual pake NumPy doang - bagian Barep
+- `src/ANN_Keras.ipynb`: ANN pake library Keras/TensorFlow - bagian Nabila
 
 Akurasi terbaik: 91.81% Multiclass
 
