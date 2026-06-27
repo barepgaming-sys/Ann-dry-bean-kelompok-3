@@ -1,6 +1,6 @@
 # Ann-dry-bean-kelompok-3
 
-Klasifikasi 7 jenis biji kacang Dry Bean Dataset menggunakan Artificial Neural Network dari scratch & keras
+Implementasi ANN untuk klasifikasi Dry Bean Dataset 
 
 ## 1. Deskripsi Singkat
 Repo ini berisi implementasi ANN untuk klasifikasi Dry Bean Dataset 7 kelas.
