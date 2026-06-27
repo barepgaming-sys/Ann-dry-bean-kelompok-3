@@ -8,11 +8,7 @@ Dibuat 2 versi sesuai tugas:
 - `src/ANN_From_Scratch.ipynb`: ANN dibuat manual pake NumPy doang - bagian Barep
 - `src/ANN_Keras.ipynb`: ANN pake library Keras/TensorFlow - bagian Nabila
 
-
-## 2. Cara Setup & Run Program
-**Requirements:**
-```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib openpyxl
+```
 ```
 ## 3. Pembagian Tugas Anggota Kelompok 3
 | Nama | NIM | Tugas |
